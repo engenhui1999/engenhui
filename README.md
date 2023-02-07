@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm En Hui</h1>
 <h3 align="center">A NUS Computer Science Undergraduate planning to specialise in Artificial Intelligence and Software Engineering.</h3>
-<img align="right" alt="Coding" width = "400" src= "https://tenor.com/en-GB/view/coding-gif-18657810">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-gif-18657810">
 
 - 🔭 I’m currently working on **Duke (Task Tracker)**
 
