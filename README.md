@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm En Hui</h1>
-<img align="left" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A NUS Computer Science Undergraduate planning to specialise in Artificial Intelligence and Software Engineering.</h3>
 
+<h3 align="center">A NUS Computer Science Undergraduate planning to specialise in Artificial Intelligence and Software Engineering.</h3>
+<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 --------------------------------
