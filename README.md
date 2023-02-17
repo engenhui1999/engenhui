@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm En Hui</h1>
 
-<h3 align="center">A NUS Computer Science Undergraduate planning to specialise in Artificial Intelligence and Software Engineering.</h3>
+<h3 align="center">A NUS Computer Science Undergraduate planning to specialise in Artificial Intelligence and Data Structures & Algorithms.</h3>
 
 
 
