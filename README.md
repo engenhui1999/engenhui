@@ -7,7 +7,7 @@
 --------------------------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Duke (Task Tracker)**
+- 🔭 I’m currently working on **TaskGenie (Task Tracker)**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Structures and Algorithms**
 
